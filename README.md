@@ -1,6 +1,4 @@
-### 👨‍💻 Anthony Freda
-
-#### Software Engineer based out of Charlotte, NC. 
+### 👨‍💻 Software Engineer based out of Charlotte, NC. 
 
 Currently at [Diligent Corporation](https://diligent.com/).
 
