@@ -1,4 +1,4 @@
-### 👨‍💻 Senior Software Engineer
+### 👨‍💻 Lead Software Engineer
 ##### 📍 Based out of Charlotte, NC.
 
 [![Linkedin Badge](https://img.shields.io/badge/-antfreda323-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antfreda323/)](https://www.linkedin.com/in/antfreda323/)
