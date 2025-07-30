@@ -4,12 +4,11 @@
 👨‍💻 Full-stack engineer with 9+ years of experience building fast, scalable, and intuitive web and mobile apps.
 
 
-**🔧 Currently working with 🔧**  
-
-TypeScript, React, React Native, Next.js  
-Node.js, Go, Python, GraphQL, REST  
-Generative AI, RAG, OpenSearch  
-AWS, Docker, GitHub Actions, Port.io
+**🔧 Currently working with 🔧**
+- TypeScript, React, React Native, Next.js  
+- Node.js, Go, Python, GraphQL, REST  
+- Generative AI, RAG, OpenSearch  
+- AWS, Docker, GitHub Actions, Port.io
 
 📍 Based in Charlotte, NC with my wife and our Frenchie<br />
 🎮 Gamer & tinkerer in my free time
