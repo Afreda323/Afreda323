@@ -1,6 +1,6 @@
-# 👋
+## 👋
 
-👨‍💻 Full-stack engineer with 9+ years of experience building fast, scalable and intuitive web and mobile apps.
+👨‍💻 Full-stack engineer crafting fast, scalable, and intuitive web & mobile apps for 9+ years.
 
 **🔧 Currently working with:**  
 - TypeScript, React, React Native, Next.js  
