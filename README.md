@@ -10,6 +10,6 @@
 📍 Based in Charlotte, NC with my wife and our Frenchie 🐶  
 🎮 Gamer & tinkerer in my free time
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Freda-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/antfreda323)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Freda-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/antfreda323)  
 [![Email](https://img.shields.io/badge/email-anthonyfreda323%40gmail.com-informational?style=for-the-badge&logo=gmail)](mailto:anthonyfreda323@gmail.com)
 
