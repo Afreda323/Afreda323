@@ -1,5 +1,5 @@
 
-## Anthony Freda 👋
+## Anthony Freda
 
 👨‍💻 Full-stack engineer with 9+ years of experience building fast, scalable, and intuitive web and mobile apps.
 
