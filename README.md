@@ -12,5 +12,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Freda-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/antfreda323)  
 [![Email](https://img.shields.io/badge/email-anthonyfreda323%40gmail.com-informational?style=flat-square&logo=gmail)](mailto:anthonyfreda323@gmail.com)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreda323&layout=compact)
 
