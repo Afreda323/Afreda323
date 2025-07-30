@@ -5,13 +5,14 @@
 
 
 **🔧 Currently working with 🔧**  
+
 TypeScript, React, React Native, Next.js  
 Node.js, Go, Python, GraphQL, REST  
 Generative AI, RAG, OpenSearch  
 AWS, Docker, GitHub Actions, Port.io
 
-📍 Based in Charlotte, NC with my wife and our Frenchie 📍
-🎮 Gamer & tinkerer in my free time 🎮
+📍 Based in Charlotte, NC with my wife and our Frenchie
+🎮 Gamer & tinkerer in my free time
 
 ---
 
